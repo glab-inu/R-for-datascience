@@ -11,10 +11,10 @@ instructor : bj kim (bjk@inu.ac.kr)
 
 | DATE            | Topic                            | speaker       | materials                                |
 | --------------- | -------------------------------- | ------------- | ---------------------------------------- |
-| 2020-11-03      | R programming essential          | BJ Kim        | [lecture](), [assignments](), [data]()   |
-| 2020-11-10      | R graphics                       | BJ Kim        | [lecture](), [assignments](), [data]()   |
-| 2020-11-17      | Machine Learning - clustering    | BJ Kim        | [lecture](), [assignments](), [data]()   |
-| 2020-11-24      | Supervised Learning              | BJ Kim        | [lecture](), [assignments](), [data]()   |
+| 2020-11-04      | R programming essential          | BJ Kim        | [lecture](), [assignments](), [data]()   |
+| 2020-11-11      | R graphics                       | BJ Kim        | [lecture](), [assignments](), [data]()   |
+| 2020-11-18      | Machine Learning - clustering    | BJ Kim        | [lecture](), [assignments](), [data]()   |
+| 2020-11-25      | Supervised Learning              | BJ Kim        | [lecture](), [assignments](), [data]()   |
 
 ## Requirements
 
@@ -23,8 +23,8 @@ instructor : bj kim (bjk@inu.ac.kr)
 
 ## Additional Notes and resources
 
+* 
 *
 *
 *
-*
-*
+* Coursera R-programming lecture by Roger D. Peng.
